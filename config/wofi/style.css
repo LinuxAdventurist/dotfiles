@@ -1,0 +1,31 @@
+window {
+  background-color: #000000;
+  padding: 50px;
+}
+
+#input {
+  padding: 10px 20px;
+  background-color: rgb(10,10,10);
+  color: rgb(255,255,255);
+  border-radius: 5px;
+  margin: 20px 15px;
+}
+
+#input:focus,
+#input:selected,
+#entry:selected,
+#entry:focus {
+  border-color: rgb(255,255,255);
+}
+
+#inner-box {
+  margin: 20px;
+}
+
+#entry {
+  border-radius: 5px;
+}
+
+#entry:selected {
+  background-color: rgb(10,10,10);
+}
