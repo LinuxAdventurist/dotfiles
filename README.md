@@ -1,13 +1,6 @@
 # Dotfiles
 These are my configurations for Hyprland and Wofi.
 
-### Installation
-Running the install script will move files into your ~/.config directory.
-If those files exist you will be prompted to overwrite them.
-```sh
-./install.sh
-```
-
 ### Notes
 For Hyprland, I made a seperate binds config for better readability.
 
