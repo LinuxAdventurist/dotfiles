@@ -42,6 +42,7 @@ window#waybar {
   background-color: #f38ba8;
 }
 
+#pulseaudio,
 #memory,
 #custom-power,
 #battery,
@@ -55,6 +56,10 @@ window#waybar {
 
 #custom-power {
   margin-right: 6px;
+}
+
+#pulseaudio {
+  background-color: #f9e2af;
 }
 
 #memory {
